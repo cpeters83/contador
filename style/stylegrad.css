@@ -1,0 +1,65 @@
+#blanco {
+    color: white;
+    font-weight: bold;
+     
+  }
+ 
+#white {
+    color: white;
+    font-weight: bold;
+    
+  }
+  
+#contenedorazul {
+        background: rgb(255, 255, 255);
+        padding-top: 5px;
+        padding-bottom: 5px;
+       }
+  
+#contenedorblanco {
+        padding-top: 0px;
+        padding-bottom: 10px;  
+  
+       }
+
+#azul {
+    color: #1D528B;
+    text-align: center;
+    font-weight: bold;
+}
+  
+  
+#blanco_izq {
+        color: white;
+        font-weight: bold;
+        text-align: left;
+         
+      }
+
+#blanco_der {
+        color: white;
+        font-weight: bold;
+        text-align: right;
+         
+      }
+
+#blanco_cen {
+        color: white;
+        font-weight: bold;
+        text-align: center;
+         
+      }
+
+#no-espacio {
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#gradiente { 
+     
+    background-image: -webkit-linear-gradient(180deg, rgb(112,48,160) 50%, rgb(152,72,7) 50%);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    } 
